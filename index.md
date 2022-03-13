@@ -1,6 +1,3 @@
-layout: page
-title: "Fair Chance Partner API v1.1"
-permalink: //
 # Fair Chance Partner API v1.1 Documentation
 
 ## Overview
