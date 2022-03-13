@@ -20,7 +20,7 @@
 
 title: Fair Chance Partner API v1.1
 email: your-email@example.com
-description: ""
+description: "Build a deep integration for your customers with Honest Jobs, without requiring them to leave your site or app"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
